@@ -1,0 +1,8 @@
+postgresql: 
+  dbname: "spring_db"
+  username: "postgres"
+  password: "123"
+
+springboot:
+  image: "mengsoklay/deops-backend"
+  tag: "latest"
